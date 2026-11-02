@@ -13,4 +13,5 @@ A split-screen login page centered on the screen using CSS Flexbox. It features 
 - `README.md`
 
 ### Screenshots
-Screenshots will be added here.
+
+![Project Screenshot](screenshots/06.png)
