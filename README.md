@@ -52,6 +52,6 @@ To demonstrate mastery of modern CSS Flexbox layout techniques by designing a fu
 - Designed to replicate the split layout, colors, and centered presentation in `06.png`.
 
 ## 9. Deployment Information
-- **GitHub Repository:** Private repository `laundry-mart-login-task`
+- **GitHub Repository:** [laundry-mart-login-task](https://github.com/apandey-dev/laundry-mart-login-task) (Private)
 - **Deployment Platform:** Vercel
 - **Live URL:** To be updated after deployment
